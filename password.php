@@ -4,7 +4,7 @@
 *
 * @copyright   Copyright (c) 2018 Gert-Jan Wille (http://www.gert-janwille.com)
 * @version     v1.0.0
-* @author      Gert-Jan Wille <hello@gert-janwille.be>
+* @author      Gert-Jan Wille <hello@gert-janwille.com>
 *
 */
 
